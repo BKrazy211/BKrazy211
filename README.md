@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkrazy211&theme=dark" alt="bkrazy211" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkrazy211)](https://github.com/anuraghazra/github-readme-stats)
