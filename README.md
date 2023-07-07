@@ -1,6 +1,6 @@
 ![MasterHead](https://r4.wallpaperflare.com/wallpaper/708/754/438/hello-world-glitch-art-digital-art-typography-wallpaper-f31ac3dae8857c7d28a2ae136128f241.jpg)
 <h1 align="center">🔥 BK 🔥</h1>
-<h3 align="center">Highly motivated self-taught in the field of technology, from Portugal</h3>
+<h3 align="center">Highly motivated self-taught in the field of technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UamnoJIsLggAAAAd/senior-help-junior.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkrazy211&label=Profile%20views&color=ff0000&style=flat" alt="bkrazy211" /> </p>
