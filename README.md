@@ -3,7 +3,7 @@
 <h3 align="center">Highly motivated self-taught in the field of technology, from Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UamnoJIsLggAAAAd/senior-help-junior.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkrazy211&label=Profile%20views&color=ff0000&style=flat" alt="bkrazy211" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bkrazy211&label=Profile%20views&color=ff0000&style=flat" alt="bkrazy211" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
