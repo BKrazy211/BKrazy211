@@ -1,5 +1,4 @@
 ![MasterHead](https://r4.wallpaperflare.com/wallpaper/708/754/438/hello-world-glitch-art-digital-art-typography-wallpaper-f31ac3dae8857c7d28a2ae136128f241.jpg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkrazy211)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">🔥 BK 🔥</h1>
 <h3 align="center">Highly motivated self-taught in the field of technology</h3>
@@ -24,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bkrazy211&show_icons=true&theme=radical&locale=en" alt="bkrazy211" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bkrazy211&theme=dark" alt="bkrazy211" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkrazy211)](https://github.com/anuraghazra/github-readme-stats)
