@@ -31,9 +31,18 @@
 
 
 <hr>
+
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=BKrazy211&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=BKrazy211&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+<hr>
+
+<div align="center">
+  
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
