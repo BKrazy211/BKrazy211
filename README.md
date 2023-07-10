@@ -6,7 +6,13 @@
 
 <h3 align="center">📧  Connect with me  📧</h3>
 <p align="center">
-<a href="https://stackoverflow.com/users/22160612/bkrazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22160612" height="30" width="40" /></a>
+<a href="https://twitter.com/bkrazy211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bkrazy211" height="30" width="40" /></a>
+<a href="https://fb.com/100094467495418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100094467495418" height="30" width="40" /></a> 
+<a href="https://instagram.com/bkrazy211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkrazy211" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno-rosa-061823228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-rosa-061823228" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22160612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22160612" height="30" width="40" /></a>
+<a href="https://dev.to/bkrazy211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bkrazy211" height="30" width="40" /></a>
+
 </p>
 
 #
