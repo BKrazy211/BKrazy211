@@ -27,8 +27,8 @@
 <hr>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BKrazy211&show_icons=true&theme=radical&locale=en" alt="BKrazy211" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKrazy211&show_icons=true&theme=radical&locale=en&layout=compact" alt="bkrazy211" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BKrazy211&show_icons=true&theme=radical&locale=en" alt="BKrazy211" />
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BKrazy211&show_icons=true&theme=radical&locale=en&layout=compact" alt="bkrazy211" />
 </div>
 
 <div align="center">
